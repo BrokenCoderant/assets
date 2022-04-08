@@ -1,0 +1,42 @@
+{
+  "name": "THROWBAXX NFT #4",
+  "symbol": "TBNFT",
+  "description": "THROWBAXX NFT is your all-access premium membership card to giveaways, lifetime holder discounts, and to the Throwbaxx Community.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://raw.githubusercontent.com/BrokenCoderant/assets/main/update.png",
+  "external_url": "https://www.throwbaxxnft.com",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rebellionaire"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Rebellionaire"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Rebellionaire"
+    },
+    {
+      "trait_type": "Laces",
+      "value": "Rebellionaire"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8Xh64pdBt6MPoi4k6qwVJuPDkGYbcSYAn93RHXVvMgi",
+        "share": 100
+      }
+    ]
+  }
+}
